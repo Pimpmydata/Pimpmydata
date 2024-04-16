@@ -1,6 +1,7 @@
 ### 👋 Hello there, I am Baptiste Guerra
-### - 🌱 I’m currently learning Data Science, Data Analyse
-### - 👯 I’m currently creating a project to simplify Dashboard creation
+### 🌱 I’m currently learning Data Science, Data Analyse
+### 💻 I am learning Python, SQL, Git mainly. I currently know Excel, PowerBI
+### 📊 You can find my public data projects here : 
 ### This my professional resume :
 
 🏢 My professional experience:
