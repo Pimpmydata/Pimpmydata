@@ -4,6 +4,7 @@
 ### This my professional resume :
 
 🏢 My professional experience:
+
 ▶ Functional consultant @ DimoSoftware - from 04/2023 to 10/2023
 
 I work for Dimo for 6 months as a consultant. 
