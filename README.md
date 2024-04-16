@@ -1,8 +1,10 @@
 ### 👋 Hello there, I am Baptiste Guerra
 ### 🌱 I’m currently learning Data Science, Data Analyse
 ### 💻 I am learning Python, SQL, Git mainly. I currently know Excel, PowerBI
-### 📊 You can find my public data projects here : https://github.com/Pimpmydata/Kaggle_Repo
-### This my professional resume : [Kaggle Repo](https://github.com/Pimpmydata/Kaggle_Repo)
+### 📊 You can find my public data projects here :  [Kaggle Repo](https://github.com/Pimpmydata/Kaggle_Repo)
+
+
+### 🕴️This my professional resume :
 
 🏢 My professional experience:
 
