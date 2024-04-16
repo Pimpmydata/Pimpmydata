@@ -6,21 +6,25 @@
 🏢 My professional experience:
 ▶ Functional consultant @ DimoSoftware - from 04/2023 to 10/2023
 
-    I work for Dimo for 6 months as a consultant. I helped the Finance Team Manager to implement the new version of there software.
+    I work for Dimo for 6 months as a consultant. 
+    I helped the Finance Team Manager to implement the new version of there software.
 
-    I had to contact and answer to customers worries. I also train them to navigate through the new version.
+    I had to contact and answer to customers worries. 
+    I also train them to navigate through the new version.
 
     I was in touch with the dev team and supervise by my Project Chief.
 
 ▶ Functional consultant @ Helyad - from 03/2020 to 03/2023
 
-    I work for Dimo for 3 years as a consultant. I worked on the ERP Infor LN ([Infor LN web page](https://www.infor.com/fr-fr/solutions/erp/ln))
+    I work for Dimo for 3 years as a consultant. 
+    I worked on the ERP Infor LN ([Infor LN web page](https://www.infor.com/fr-fr/solutions/erp/ln))
 
     I had to learn how to configure the Finance module and also learn the Logistic module a bit.
 
     I was involved in severals customers case. 
     The most notable one was the Finance project I have done for a elevator equipment manufacturer.  
-    I trained 3 persons including the CFO to navigate and handle Finance tasks in the ERP. It lasted 6 months during which I was most of the time on site.
+    I trained 3 persons including the CFO to navigate and handle Finance tasks in the ERP. 
+    It lasted 6 months during which I was most of the time on site.
 
 ▶ Project Manager Assitant @ Patis Service - from 10/2017 to 09/2018
 
