@@ -1,7 +1,7 @@
 ### 👋 Hello there, I am Baptiste Guerra
 ### 🌱 I’m currently learning Data Science, Data Analyse
 ### 💻 I am learning Python, SQL, Git mainly. I currently know Excel, PowerBI
-### 💡 I am interested by all new technologies and langage such as Odin or GraphDB
+### 💡 I am interested by all new technologies and langage such as [Odin](https://odin-lang.org/) or [Neo4j](https://neo4j.com/fr/)
 ### 📊 You can find my public data projects here :  [Kaggle Repo](https://github.com/Pimpmydata/Kaggle_Repo), [Portofolio Data](https://github.com/Pimpmydata/Portofolio-Data)
 
 
