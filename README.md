@@ -1,6 +1,7 @@
 ### 👋 Hello there, I am Baptiste Guerra
 ### 🌱 I’m currently learning Data Science, Data Analyse
 ### 💻 I am learning Python, SQL, Git mainly. I currently know Excel, PowerBI
+### 💡 I am interested by all new technologies and langage such as Odin or GraphDB
 ### 📊 You can find my public data projects here :  [Kaggle Repo](https://github.com/Pimpmydata/Kaggle_Repo), [Portofolio Data](https://github.com/Pimpmydata/Portofolio-Data)
 
 
@@ -41,19 +42,18 @@ I trained the purchase manager to the order picker. So I had to adapt my trainin
 
 It was a great experience, it brought me a lot of softskills such adaptation and pedagogy.
 
-▶ I had several others jobs, particularly in accounting.
+▶ I had several others jobs, particularly in accounting
 
 📚 My university curriculum
 
-Master degree in Finance and accounting 
+Master and bachelor's degree in Finance and Accounting 
 
-Currently training for Data Analyst certification (Equivalent Master degree)
-  I am learning Python, Git, BI tools like PowerBI
+Currently training for Data Analyst certification @ [WildCodeSchool](https://www.wildcodeschool.com/fr-fr/formations-data/formation-data-analyst) in Lyon
+  I am learning Python, Git, BI tools like PowerBI and Tableau.
 
 📺 My hobbies  
-  I often go to the cinema 
-  I play poker, I have won 7k€ since 2020.
-  I like all kinds of board games and always look to learn a new one. 
+  I often go to the cinema, I prefer Sci-fi but I like to be suprised
+  I like all kinds of board games and always look to learn a new one
 
 🏀 Sport 
-  I like skiing, hiking and running.
+  I like skiing, hiking and running
