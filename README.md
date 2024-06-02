@@ -23,7 +23,7 @@ I was in touch with the dev team and supervised by my Project Chief.
 I work for Heylad for 3 years as a consultant. 
 I worked on the ERP Infor LN ([Infor LN web page](https://www.infor.com/fr-fr/solutions/erp/ln))
 
-I had to learn how to configure the Finance module and also learn the Logistic module a bit.
+I configured the Finance module in Piriou and Wittur, and also learn the Logistic module. 
 
 I was involved in severals customers case. 
 The most notable one was the Finance project I have done for a elevator equipment manufacturer.  
