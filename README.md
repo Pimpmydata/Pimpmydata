@@ -16,7 +16,7 @@ I helped the Finance Team Manager to implement the new version of there software
 I had to contact and answer to customers worries. 
 I also train them to navigate through the new version.
 
-I was in touch with the dev team and supervise by my Project Chief.
+I was in touch with the dev team and supervised by my Project Chief.
 
 ▶ Functional consultant @ Helyad - from 03/2020 to 03/2023
 
