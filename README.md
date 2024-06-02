@@ -32,7 +32,7 @@ It lasted 6 months during which I was most of the time on site (Paris area).
 
 ▶ Project Manager Assitant @ Patis Service - from 10/2017 to 09/2018
 
-I set up a new software and train people of the warehouse team in Patis Service, a retailer in bakery in the French Alps.
+I set up a new software and train the warehouse team in Patis Service, a retailer in bakery in the French Alps.
 
 The software is a Warehouse Manage System (WMS), edited by Acteos. 
 
