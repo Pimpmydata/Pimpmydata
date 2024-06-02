@@ -54,7 +54,8 @@ Currently training for Data Analyst certification @ [WildCodeSchool](https://www
 
 📺 My hobbies  
   I like all kinds of board games and always look to learn a new one.
-    I often go to the cinema, I prefer Sci-fi but I like to be suprised.
+  
+  I often go to the cinema, I prefer Sci-fi but I like to be suprised.
 
 🏀 Sport 
   I like skiing, hiking and running
