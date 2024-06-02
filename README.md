@@ -25,7 +25,7 @@ I worked on the ERP Infor LN ([Infor LN web page](https://www.infor.com/fr-fr/so
 
 I configured the Finance module in Piriou and Wittur, and also learn the Logistic module. 
 
-I was involved in severals customers case. 
+I was involved in severals customers cases. 
 The most notable one was the Finance project I have done for a elevator equipment manufacturer.  
 I trained 3 persons including the CFO to navigate and handle Finance tasks in the ERP. 
 It lasted 6 months during which I was most of the time on site.
