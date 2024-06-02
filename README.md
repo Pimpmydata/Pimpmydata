@@ -26,6 +26,7 @@ I worked on the ERP Infor LN ([Infor LN web page](https://www.infor.com/fr-fr/so
 I configured the Finance module in Piriou and Wittur, and also learn the Logistic module. 
 
 Involved in severals customers cases. 
+
 The most notable one was the Finance project I have done for a elevator equipment manufacturer.  
 Finance training of 3 persons including the CFO. How to navigate and handle tasks in the ERP plus technical documentation and processes. 
 It lasted 6 months during which I was most of the time on site (Paris area).
@@ -52,8 +53,8 @@ Currently training for Data Analyst certification @ [WildCodeSchool](https://www
   I am learning Python, Git, BI tools like PowerBI and Tableau.
 
 📺 My hobbies  
-  I often go to the cinema, I prefer Sci-fi but I like to be suprised
-  I like all kinds of board games and always look to learn a new one
+  I like all kinds of board games and always look to learn a new one.
+    I often go to the cinema, I prefer Sci-fi but I like to be suprised.
 
 🏀 Sport 
   I like skiing, hiking and running
