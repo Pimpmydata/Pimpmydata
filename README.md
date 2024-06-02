@@ -27,7 +27,7 @@ I configured the Finance module in Piriou and Wittur, and also learn the Logisti
 
 Involved in severals customers cases. 
 The most notable one was the Finance project I have done for a elevator equipment manufacturer.  
-Finance training of 3 persons including the CFO. How to navigate and handle tasks in the ERP. 
+Finance training of 3 persons including the CFO. How to navigate and handle tasks in the ERP plus technical documentation and processes. 
 It lasted 6 months during which I was most of the time on site (Paris area).
 
 ▶ Project Manager Assitant @ Patis Service - from 10/2017 to 09/2018
