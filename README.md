@@ -20,7 +20,7 @@ I was in touch with the dev team and supervised by my Project Chief.
 
 ▶ Functional consultant @ Helyad - from 03/2020 to 03/2023
 
-I work for Dimo for 3 years as a consultant. 
+I work for Heylad for 3 years as a consultant. 
 I worked on the ERP Infor LN ([Infor LN web page](https://www.infor.com/fr-fr/solutions/erp/ln))
 
 I had to learn how to configure the Finance module and also learn the Logistic module a bit.
